@@ -1,0 +1,18 @@
+module top_module (
+    input [2:0] SW,
+    input [1:0] KEY,
+    output reg [2:0] LEDR
+);
+    wire clk = KEY[0];
+    wire L   = KEY[1];
+
+    always @(posedge clk) begin
+        if (L)
+            LEDR <= SW;
+        else begin
+            LEDR[0] <= LEDR[2];
+            LEDR[1] <= LEDR[0];
+            LEDR[2] <= LEDR[1] ^ LEDR[2];
+        end
+    end
+endmodule

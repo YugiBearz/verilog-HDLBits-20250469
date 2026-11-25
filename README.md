@@ -18,7 +18,7 @@ Cada carpeta sigue exactamente las secciones de HDLBits y contiene el código fu
 | 2.3 | **Verilog Language — Modules: Hierarchy** | `9 / 9` | [`02_Verilog_Language/03_Modules_Hierarchy/`](02_Verilog_Language/03_Modules_Hierarchy/) |
 | 2.4 | **Verilog Language — Procedures** | `8 / 8` | [`02_Verilog_Language/04_Procedures/`](02_Verilog_Language/04_Procedures/) |
 | 2.5 | **Verilog Language — More Verilog Features** | `7 / 7` | [`02_Verilog_Language/05_More_Verilog_Features/`](02_Verilog_Language/05_More_Verilog_Features/) |
-| 3.1 | **Circuits — Combinational Logic** | `17 / 37` | [`03_Circuits/01_Combinational_Logic/`](03_Circuits/01_Combinational_Logic/) |
+| 3.1 | **Circuits — Combinational Logic** | `22 / 37` | [`03_Circuits/01_Combinational_Logic/`](03_Circuits/01_Combinational_Logic/) |
 | 3.2 | **Circuits — Sequential Logic** | `0 / 61` | [`03_Circuits/02_Sequential_Logic/`](03_Circuits/02_Sequential_Logic/) |
 | 3.3 | **Circuits — Building Larger Circuits** | `0 / 7` | [`03_Circuits/03_Building_Larger_Circuits/`](03_Circuits/03_Building_Larger_Circuits/) |
 | 4 | **Verification: Reading Simulations** | `0 / 15` | [`04_Verification_Reading_Simulations/`](04_Verification_Reading_Simulations/) |

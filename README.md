@@ -16,7 +16,7 @@ Cada carpeta sigue exactamente las secciones de HDLBits y contiene el código fu
 | 2.1 | **Verilog Language — Basics** | `8 / 8` | [`02_Verilog_Language/01_Basics/`](02_Verilog_Language/01_Basics/) |
 | 2.2 | **Verilog Language — Vectors** | `9 / 9` | [`02_Verilog_Language/02_Vectors/`](02_Verilog_Language/02_Vectors/) |
 | 2.3 | **Verilog Language — Modules: Hierarchy** | `9 / 9` | [`02_Verilog_Language/03_Modules_Hierarchy/`](02_Verilog_Language/03_Modules_Hierarchy/) |
-| 2.4 | **Verilog Language — Procedures** | `0 / 8` | [`02_Verilog_Language/04_Procedures/`](02_Verilog_Language/04_Procedures/) |
+| 2.4 | **Verilog Language — Procedures** | `8 / 8` | [`02_Verilog_Language/04_Procedures/`](02_Verilog_Language/04_Procedures/) |
 | 2.5 | **Verilog Language — More Verilog Features** | `0 / 7` | [`02_Verilog_Language/05_More_Verilog_Features/`](02_Verilog_Language/05_More_Verilog_Features/) |
 | 3.1 | **Circuits — Combinational Logic** | `0 / 37` | [`03_Circuits/01_Combinational_Logic/`](03_Circuits/01_Combinational_Logic/) |
 | 3.2 | **Circuits — Sequential Logic** | `0 / 61` | [`03_Circuits/02_Sequential_Logic/`](03_Circuits/02_Sequential_Logic/) |

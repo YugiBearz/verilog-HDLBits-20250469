@@ -13,7 +13,7 @@ Cada carpeta sigue exactamente las secciones de HDLBits y contiene el código fu
 | # | Sección | Progreso | Carpeta |
 | :---: | :--- | :---: | :--- |
 | 1 | **Getting Started** | `2 / 2` | [`01_Getting_Started/`](01_Getting_Started/) |
-| 2.1 | **Verilog Language — Basics** | `0 / 8` | [`02_Verilog_Language/01_Basics/`](02_Verilog_Language/01_Basics/) |
+| 2.1 | **Verilog Language — Basics** | `8 / 8` | [`02_Verilog_Language/01_Basics/`](02_Verilog_Language/01_Basics/) |
 | 2.2 | **Verilog Language — Vectors** | `0 / 9` | [`02_Verilog_Language/02_Vectors/`](02_Verilog_Language/02_Vectors/) |
 | 2.3 | **Verilog Language — Modules: Hierarchy** | `0 / 9` | [`02_Verilog_Language/03_Modules_Hierarchy/`](02_Verilog_Language/03_Modules_Hierarchy/) |
 | 2.4 | **Verilog Language — Procedures** | `0 / 8` | [`02_Verilog_Language/04_Procedures/`](02_Verilog_Language/04_Procedures/) |

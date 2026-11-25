@@ -1,0 +1,12 @@
+# Simulación y compilados locales
+*.vvp
+*.vcd
+*.out
+sim_*
+obj_dir/
+
+# Temporales de editor y SO
+.DS_Store
+Thumbs.db
+*.swp
+*~

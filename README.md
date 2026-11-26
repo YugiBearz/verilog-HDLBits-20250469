@@ -23,3 +23,6 @@ Cada carpeta sigue exactamente las secciones de HDLBits y contiene el código fu
 | 3.3 | **Circuits — Building Larger Circuits** | `7 / 7` | [`03_Circuits/03_Building_Larger_Circuits/`](03_Circuits/03_Building_Larger_Circuits/) |
 | 4 | **Verification: Reading Simulations** | `15 / 15` | [`04_Verification_Reading_Simulations/`](04_Verification_Reading_Simulations/) |
 | 5 | **Verification: Writing Testbenches** | `5 / 5` | [`05_Verification_Writing_Testbenches/`](05_Verification_Writing_Testbenches/) |
+| 6 | **CS450** | `4 / 4` | [`06_CS450/`](06_CS450/) |
+
+**Total completado:** `182 / 182` (`100%`)
